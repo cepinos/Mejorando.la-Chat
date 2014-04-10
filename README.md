@@ -6,7 +6,7 @@
 ## Instalación de dependencias
 
 ```
-npm install -d
+npm install d
 ```
 
 ## Configuración
